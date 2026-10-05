@@ -5,7 +5,7 @@ This is a **Python** based web application developed using **Streamlit** to anal
 
 ## 🚀 Live Demo
 You can check out the live working project here:
-👉 **[Live Web App Link](https://payal-sengar-1107-whatsapp-chat-analyzer-app-coitcf.streamlit.app/)**
+👉 **[Live Web App Link](https://payal-sengar-1107-whatsapp-chat-analyzer-app-coitcf.streamlit.app)**
 
 ## ✨ Key Features
 - **Top Statistics:** Total messages, total words, media files shared, and links shared.
